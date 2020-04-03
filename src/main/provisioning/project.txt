@@ -1,0 +1,5 @@
+[feature name=project]
+
+[artifacts startLevel=16]
+    org.ops4j.pax.web/pax-web-api/7.3.6
+    org.example/Sling-Rest-Basics/1.0-SNAPSHOT
